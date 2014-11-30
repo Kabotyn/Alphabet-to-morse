@@ -10,8 +10,10 @@ public:
 	Alphabet2Morse(std::string);
 	
 	void setText(std::string);
-	void getText(void);
+	std::string getText(void);
 	void translate2Morse(void);
+	
+	void showMorse(void);
 	
 	std::vector<std::string> getMorse(std::string);
 	
