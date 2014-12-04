@@ -1,6 +1,4 @@
-Challenge-177-Intermediate
+Alphabet to morse
 ==========================
 
-In progres... 
-
-http://www.reddit.com/r/dailyprogrammer/comments/2er1v0/8272014_challenge_177_intermediate/
+Simple program changing alphabet into morse code.
