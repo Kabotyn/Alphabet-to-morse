@@ -8,7 +8,7 @@ using namespace std;
 // constructor without parameters, read text from user (cin)
 Alphabet2Morse::Alphabet2Morse(void) {
 	string text;
-	cout << "Text to morse:" << endl;
+	cout << "Write text:" << endl;
 	cin >> text;
 	
 }
